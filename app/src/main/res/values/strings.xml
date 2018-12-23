@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TinkWatchfaceSimple</string>
+    <string name="app_name">BelleWatchfaceSimple</string>
     <string name="message">Watch face tapped</string>
-    <string name="my_analog_name">TinkerBell Analog</string>
+    <string name="my_analog_name">Belle Analog</string>
 </resources>
